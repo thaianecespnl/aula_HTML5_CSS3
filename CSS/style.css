@@ -1,0 +1,40 @@
+body{
+    background: rgb(216, 150, 150);
+    margin-left: 60px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+section{
+    margin-top: 50px;
+}
+
+h1{
+    color: rgb(104, 19, 104);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+    }
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrão{
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.img_contato{
+    margin-bottom: -10px;    
+    width: 30px;
+}
